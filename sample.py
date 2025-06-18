@@ -1,4 +1,5 @@
 a = 5
 b = 3
 c=80
-print(a+b+c)
+d=11
+print((a+b+c)/d)
